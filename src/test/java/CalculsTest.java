@@ -1,5 +1,3 @@
-package test.java;
-
 import main.java.Calculs;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
